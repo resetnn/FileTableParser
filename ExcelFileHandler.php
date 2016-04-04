@@ -1,11 +1,11 @@
 <?php
 
-namespace aciden\receivData;
+namespace resetnn\FileTableParser;
 
 use PHPExcel_IOFactory;
 use PHPExcel_Cell;
 
-use aciden\receivData\ErrorException;
+use resetnn\FileTableParser\ErrorException;
 
 class ExcelFileHandler
 {

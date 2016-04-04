@@ -1,8 +1,8 @@
 <?php
 
-namespace aciden\receivData;
+namespace resetnn\FileTableParser;
 
-use aciden\receivData\ErrorException;
+use resetnn\FileTableParser\ErrorException;
 
 class PlainFileHandler
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace aciden\receivData;
+namespace resetnn\FileTableParser;
 
 class ErrorException extends \yii\base\ErrorException
 {

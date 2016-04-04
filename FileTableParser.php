@@ -1,14 +1,14 @@
 <?php
 
-namespace aciden\receivData;
+namespace resetnn\FileTableParser;
 
-use aciden\receivData\FtpUpload;
-use aciden\receivData\FetchDataFile;
+use resetnn\FileTableParser\FtpUpload;
+use resetnn\FileTableParser\FetchDataFile;
 
 /**
  * 
  */
-class ReceivData extends \yii\base\Component
+class FileTableParser extends \yii\base\Component
 {
     /**
      *

@@ -1,10 +1,10 @@
 <?php
 
-namespace aciden\receivData;
+namespace resetnn\FileTableParser;
 
 use PHPExcel_IOFactory;
 
-use aciden\receivData\ErrorException;
+use resetnn\FileTableParser\ErrorException;
 
 class FetchDataFile
 {
