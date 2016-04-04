@@ -1,12 +1,12 @@
 {
-    "name": "resetnn/FileTableParser",
+    "name": "resetnn/file-table-parser",
     "description": "Yii2 receiving data from a file",
     "keywords": ["yii2", "receiv"],
     "type": "yii2-extension",
     "license": "MIT",
     "support": {
-        "source": "https://github.com/resetnn/FileTableParser",
-	"issues": "https://github.com/resetnn/FileTableParser"
+        "source": "https://github.com/resetnn/file-table-parser",
+	    "issues": "https://github.com/resetnn/file-table-parser/issues"
     },
     "authors": [
         {
